@@ -21,5 +21,3 @@ python3 -m http.server 8000
 
 In VS Code the Live Server extension works too.
 
-## Publish on GitHub Pages
-Push these files to a repo, then Settings → Pages → deploy from branch (root).
